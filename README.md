@@ -2,9 +2,9 @@
 - 👀 I’m interested in:
     .Net/C#;
     Python;
-    JavaScript;
+    JavaScript(Angular);
     Backend and frontend apps;
-    Databases.
+    Databases(Microsoft SQL Server,  PostgreSQL, MySQL, SQLite).
 - 🌱 I study English and German as well as play football
 - 📫 How to reach me => https://www.linkedin.com/in/andriiprymenko
 
