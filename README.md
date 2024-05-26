@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Andrii Prymenko
-- 👀 I’m interested in .Net Core
+- 👀 I’m interested in:
+    .Net/C#;
+    Python;
+    JavaScript;
+    Backend and frontend apps;
+    Databases.
 - 🌱 I study English and German as well as play football
 - 📫 How to reach me => https://www.linkedin.com/in/andriiprymenko
 
