@@ -1,11 +1,52 @@
-- 👋 Hi, I’m Andrii Prymenko
-- 👀 I’m interested in backend and frontend apps:
-    .Net/C#;
-    Python;
-    JavaScript(Angular);
-    Databases(Microsoft SQL Server,  PostgreSQL, MySQL, SQLite).
-- 🌱 I study English and German as well as play football
-- 📫 How to reach me => https://www.linkedin.com/in/andriiprymenko
+# 👋 Hi, I'm Andrii Prymenko!
+
+# 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘  
+🌱 I study English(C1) and German(B2)
+
+---
+
+# 💪 𝐒𝐊𝐈𝐋𝐋𝐒  
+
+## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
+
+**C# | Python | JavaScript | TypeScript | SQL**  
+
+## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬  
+
+**.NET 8/9 | ASP.NET Core | DAPPER | Entity Framework Core | RabbitMQ**  
+
+## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬  
+
+**Microsoft SQL Server | MySQL | PostgreSQL | SQLite**
+
+## Cache
+
+**Redis**
+
+## 𝐓𝐨𝐨𝐥𝐬  
+
+**Git | TFS | Docker | Kubernetes | AutoMapper | Swagger/OpenAPI**  
+
+## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬  
+
+**MVC | REST API | CQRS | Event Sourcing | TDD | SOLID | Clean Code**  
+
+## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝  
+
+**HTML5 | CSS3 | JavaScript | jQuery | Angular**  
+
+---
+
+# ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄  
+
+🔗 **LinkedIn:** [Andrii Prymenko](https://www.linkedin.com/in/andriiprymenko)  
+
+🏠 **GitHub:** [Andrii Prymenko](https://github.com/abprymenko)  
+
+
+💡 *Passionate about writing clean, maintainable code and solving complex problems with .NET technologies.*  
+
+---
 
                       *****************
                       *RabbitMQ, Kafka*
