@@ -32,6 +32,7 @@
 
 ## ⚡ Cache  
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+> *Used for fast in-memory caching of sessions, tokens, and frequently accessed data.(key-value store)*
 
 ## 🛠️ Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
