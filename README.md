@@ -8,32 +8,26 @@
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒  
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
-
 **C# | Python | JavaScript | TypeScript | SQL**  
 
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬  
-
-**.NET 8/9 | ASP.NET Core | DAPPER | Entity Framework Core | RabbitMQ**  
+**.NET 8/9 | ASP.NET Core | WPF | DAPPER | Entity Framework Core | LINQ | RabbitMQ | Castle Windsor | NUnit**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬  
-
 **Microsoft SQL Server | MySQL | PostgreSQL | SQLite**
 
-## Cache
-
+## Cache  
 **Redis**
 
 ## 𝐓𝐨𝐨𝐥𝐬  
-
-**Git | TFS | Docker | Kubernetes | AutoMapper | Swagger/OpenAPI**  
+**Git | TFS | Docker | Kubernetes | AutoMapper | Swagger/OpenAPI | Microsoft 365 (Outlook, Notepad) | SECS/GEM | IDS Camera API | INDEL Motion API**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬  
-
-**MVC | REST API | CQRS | Event Sourcing | TDD | SOLID | Clean Code**  
+**MVC | Gateway | REST API | CQRS | Event Sourcing | TDD | SOLID | Clean Code | Dependency Injection (Castle Windsor)**
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝  
+**HTML5 | CSS3 | JavaScript | jQuery | Angular**
 
-**HTML5 | CSS3 | JavaScript | jQuery | Angular**  
 
 ---
 
