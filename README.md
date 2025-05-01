@@ -8,26 +8,33 @@
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒  
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
-**C# | Python | JavaScript | TypeScript | SQL**  
+**C# | Python | JavaScript | TypeScript | SQL**
 
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬  
-**.NET 8/9 | ASP.NET Core | WPF | DAPPER | Entity Framework Core | LINQ | RabbitMQ | Castle Windsor | NUnit**
+**.NET 8/9 | ASP.NET Core | WPF | DAPPER | Entity Framework Core | RabbitMQ | Kafka**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬  
-**Microsoft SQL Server | MySQL | PostgreSQL | SQLite**
+**Microsoft SQL Server | MySQL | PostgreSQL | SQLite**  
+*Although Redis is technically a NoSQL database, it's commonly used for caching*
 
-## Cache  
-**Redis**
+## 𝐂𝐚𝐜𝐡𝐞  
+**Redis**  
+*Used for fast in-memory caching of sessions, tokens, and frequently accessed data.*
 
 ## 𝐓𝐨𝐨𝐥𝐬  
-**Git | TFS | Docker | Kubernetes | AutoMapper | Swagger/OpenAPI | Microsoft 365 (Outlook, Notepad) | SECS/GEM | IDS Camera API | INDEL Motion API**
+**Git | TFS | Docker | Kubernetes | AutoMapper | Swagger/OpenAPI | Microsoft 365 (Outlook, OneNote)**
+
+## 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐢𝐚𝐥 / 𝐇𝐚𝐫𝐝𝐰𝐚𝐫𝐞 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧  
+**SECS/GEM (Die Bonder communication) | IDS (Industrial Camera API) | INDEl (Motion Control API)**
+
+## 𝐃𝐞𝐯 / 𝐓𝐞𝐬𝐭𝐢𝐧𝐠  
+**NUnit | LINQ | TDD | Clean Code**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬  
-**MVC | Gateway | REST API | CQRS | Event Sourcing | TDD | SOLID | Clean Code | Dependency Injection (Castle Windsor)**
+**MVC | Gateway | REST API | CQRS | Event Sourcing | SOLID**
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝  
 **HTML5 | CSS3 | JavaScript | jQuery | Angular**
-
 
 ---
 
