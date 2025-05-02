@@ -36,12 +36,14 @@
 
 ## 🛠️ Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 ![AutoMapper](https://img.shields.io/badge/-AutoMapper-DD0031?style=flat)  
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  
-![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white) > *developing **Outlook** and **OneNote** 
+![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+> *developing **Outlook** and **OneNote** 
+
 ## 🏭 Industrial & Hardware Integration  
 **SECS/GEM (Die Bonder communication)**  
 **IDS Camera API (Industrial cameras)**  
