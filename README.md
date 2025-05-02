@@ -42,7 +42,7 @@
 ![AutoMapper](https://img.shields.io/badge/-AutoMapper-DD0031?style=flat)  
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
-> *developing **Outlook** and **OneNote** 
+> *developing **Outlook** and **OneNote** *
 
 ## 🏭 Industrial & Hardware Integration  
 **SECS/GEM (Die Bonder communication)**  
