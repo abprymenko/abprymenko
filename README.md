@@ -78,8 +78,9 @@
 
 ---
 
-
+<!---
 ![Visitor Count](https://profile-counter.glitch.me/abprymenko/count.svg)  
+--->
 
 ## **Thank you for visiting my profile! 🚀**  
  
