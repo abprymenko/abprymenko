@@ -45,9 +45,7 @@
 > *developing **Outlook** and **OneNote**.*
 
 ## 🏭 Industrial & Hardware Integration  
-**SECS/GEM (Die Bonder communication)**  
-**IDS Camera API (Industrial cameras)**  
-**INDEl Motion API (Camera movement control)**
+**SECS/GEM (Die Bonder communication) | IDS Camera API (Industrial cameras) | INDEl Motion API (Camera movement control)**
 
 ## ✅ Dev & Testing  
 ![NUnit](https://img.shields.io/badge/-NUnit-464D9D?style=flat)  
