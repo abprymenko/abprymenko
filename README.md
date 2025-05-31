@@ -20,7 +20,7 @@
 ![Dapper](https://img.shields.io/badge/-Dapper-00599C?style=flat)  
 ![EF Core](https://img.shields.io/badge/-Entity_Framework_Core-001D57?style=flat&logo=dotnet&logoColor=white)  
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![slash](https://img.shields.io/badge/-/-white?style=flat&logoColor=gray)
+![slash](https://img.shields.io/badge/-/-white?style=flat&logoColor=white)
 ![MassTransit](https://img.shields.io/badge/-MassTransit-0083C7?style=flat&logo=masstransit&logoColor=white)  
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)  
 
